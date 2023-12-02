@@ -3,6 +3,7 @@ const app = express();
 const port = 3000
 
 const requestLoggingMdware = require("./middlewares/reqLogging.mdware");
+const errorMdware = require("./middlewares/errors.mdware");
 
 const usersRouter = require("./routes/users");
 const studentsRouter = require("./routes/students");
@@ -15,6 +16,8 @@ app.use(express.json());
 app.use('/users', usersRouter);
 app.use('/students', studentsRouter);
 app.use('/articles', articlesRouter);
+
+app.use(errorMdware.errorHandler)
 
 app.listen(port, () => {
     console.log(`Server listening on ${port}...`)
