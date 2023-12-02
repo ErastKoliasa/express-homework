@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Aimee Zank",
+        "scores": [
+            {
+                "score": 1.46,
+                "type": "exam"
+            },
+            {
+                "score": 11.78,
+                "type": "quiz"
+            },
+            {
+                "score": 35.87,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "John Doe",
+        "scores": [
+            {
+                "score": 8.94,
+                "type": "exam"
+            },
+            {
+                "score": 15.24,
+                "type": "quiz"
+            },
+            {
+                "score": 25.88,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Emily Smith",
+        "scores": [
+            {
+                "score": 5.79,
+                "type": "exam"
+            },
+            {
+                "score": 20.12,
+                "type": "quiz"
+            },
+            {
+                "score": 30.99,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Michael Johnson",
+        "scores": [
+            {
+                "score": 12.35,
+                "type": "exam"
+            },
+            {
+                "score": 18.90,
+                "type": "quiz"
+            },
+            {
+                "score": 29.88,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Sophia Davis",
+        "scores": [
+            {
+                "score": 9.88,
+                "type": "exam"
+            },
+            {
+                "score": 22.35,
+                "type": "quiz"
+            },
+            {
+                "score": 31.68,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Daniel Brown",
+        "scores": [
+            {
+                "score": 15.67,
+                "type": "exam"
+            },
+            {
+                "score": 25.98,
+                "type": "quiz"
+            },
+            {
+                "score": 38.45,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Olivia White",
+        "scores": [
+            {
+                "score": 7.89,
+                "type": "exam"
+            },
+            {
+                "score": 19.45,
+                "type": "quiz"
+            },
+            {
+                "score": 27.76,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Ethan Miller",
+        "scores": [
+            {
+                "score": 11.23,
+                "type": "exam"
+            },
+            {
+                "score": 17.56,
+                "type": "quiz"
+            },
+            {
+                "score": 28.91,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Isabella Wilson",
+        "scores": [
+            {
+                "score": 14.56,
+                "type": "exam"
+            },
+            {
+                "score": 23.89,
+                "type": "quiz"
+            },
+            {
+                "score": 34.12,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Mason Taylor",
+        "scores": [
+            {
+                "score": 10.78,
+                "type": "exam"
+            },
+            {
+                "score": 21.34,
+                "type": "quiz"
+            },
+            {
+                "score": 32.67,
+                "type": "homework"
+            }
+        ]
+    }
+]

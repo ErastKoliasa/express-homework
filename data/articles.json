@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Python for Beginners",
+        "description": "A beginner-friendly guide to Python programming language.",
+        "type": "course",
+        "tags": [
+            "programming",
+            "Python",
+            "beginner"
+        ]
+    },
+    {
+        "name": "Artificial Intelligence Trends",
+        "description": "Exploring the latest trends in artificial intelligence.",
+        "type": "article",
+        "tags": [
+            "artificial intelligence",
+            "technology",
+            "innovation"
+        ]
+    },
+    {
+        "name": "Introduction to Blockchain",
+        "description": "Understanding the fundamentals of blockchain technology.",
+        "type": "tutorial",
+        "tags": [
+            "blockchain",
+            "cryptocurrency",
+            "decentralization"
+        ]
+    },
+    {
+        "name": "Healthy Sleep Habits",
+        "description": "Tips for improving sleep quality and developing healthy sleep habits.",
+        "type": "article",
+        "tags": [
+            "health",
+            "wellness",
+            "sleep"
+        ]
+    },
+    {
+        "name": "Vue.js - Getting Started",
+        "description": "A step-by-step guide to getting started with Vue.js framework.",
+        "type": "tutorial",
+        "tags": [
+            "web development",
+            "Vue.js",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "The Science of Meditation",
+        "description": "Exploring the scientific benefits of meditation on the mind and body.",
+        "type": "article",
+        "tags": [
+            "meditation",
+            "mindfulness",
+            "mental health"
+        ]
+    }
+]

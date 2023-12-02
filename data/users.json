@@ -1,0 +1,135 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "johndoe@example.com",
+        "password": "mysecretpassword",
+        "age": 30,
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zip": "12345",
+            "country": "USA"
+        },
+        "createdAt": "2023-05-06T08:12:34.5672",
+        "tags": [
+            "Sales",
+            "Marketing"
+        ]
+    },
+    {
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "email": "alicesmith@example.com",
+        "password": "securepassword123",
+        "age": 25,
+        "address": {
+            "street": "456 Oak Avenue",
+            "city": "Smallville",
+            "state": "NY",
+            "zip": "54321",
+            "country": "USA"
+        },
+        "createdAt": "2023-06-12T15:45:21.9873",
+        "tags": [
+            "Customer Support",
+            "Technical Writing"
+        ]
+    },
+    {
+        "firstName": "Bob",
+        "lastName": "Johnson",
+        "email": "bobjohnson@example.com",
+        "password": "bobssecretpass",
+        "age": 35,
+        "address": {
+            "street": "789 Pine Street",
+            "city": "Cityville",
+            "state": "TX",
+            "zip": "67890",
+            "country": "USA"
+        },
+        "createdAt": "2023-04-03T12:30:45.8765",
+        "tags": [
+            "Development",
+            "Programming"
+        ]
+    },
+    {
+        "firstName": "Emily",
+        "lastName": "Clark",
+        "email": "emilyclark@example.com",
+        "password": "emilyspassword",
+        "age": 28,
+        "address": {
+            "street": "101 Maple Lane",
+            "city": "Villagetown",
+            "state": "FL",
+            "zip": "54321",
+            "country": "USA"
+        },
+        "createdAt": "2023-07-22T18:55:10.2341",
+        "tags": [
+            "Design",
+            "Creativity"
+        ]
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Williams",
+        "email": "michaelwilliams@example.com",
+        "password": "mikessecurepass",
+        "age": 40,
+        "address": {
+            "street": "222 Pinecrest Drive",
+            "city": "Hometown",
+            "state": "IL",
+            "zip": "98765",
+            "country": "USA"
+        },
+        "createdAt": "2023-02-18T09:23:56.7890",
+        "tags": [
+            "Finance",
+            "Accounting"
+        ]
+    },
+    {
+        "firstName": "Sophia",
+        "lastName": "Miller",
+        "email": "sophiamiller@example.com",
+        "password": "sophiaspass123",
+        "age": 32,
+        "address": {
+            "street": "555 Elm Street",
+            "city": "Metropolis",
+            "state": "CA",
+            "zip": "56789",
+            "country": "USA"
+        },
+        "createdAt": "2023-08-15T14:20:30.1234",
+        "tags": [
+            "Human Resources",
+            "Recruiting"
+        ]
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Brown",
+        "email": "danielbrown@example.com",
+        "password": "danielspassword",
+        "age": 27,
+        "address": {
+            "street": "777 Cedar Road",
+            "city": "Suburbia",
+            "state": "WA",
+            "zip": "34567",
+            "country": "USA"
+        },
+        "createdAt": "2023-11-05T17:40:15.4321",
+        "tags": [
+            "Research",
+            "Data Analysis"
+        ]
+    }
+]
