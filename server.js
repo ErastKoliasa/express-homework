@@ -2,15 +2,17 @@ const express = require("express");
 const app = express();
 const port = 3000
 
-const usersMdware = require("./middlewares/users.mdware");
+const requestLoggingMdware = require("./middlewares/reqLogging.mdware");
 
 const usersRouter = require("./routes/users");
 const studentsRouter = require("./routes/students");
 const articlesRouter = require("./routes/articles")
 
+app.use(requestLoggingMdware.requestLogging);
+
 app.use(express.json());
 
-app.use('/users', usersMdware.validateUserFields, usersRouter);
+app.use('/users', usersRouter);
 app.use('/students', studentsRouter);
 app.use('/articles', articlesRouter);
 
