@@ -19,6 +19,10 @@ app.use('/articles', articlesRouter);
 
 app.use(errorMdware.errorHandler)
 
-app.listen(port, () => {
+const server = app.listen(port, () => {
     console.log(`Server listening on ${port}...`)
 })
+
+module.exports = {
+    server
+}
